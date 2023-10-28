@@ -1,0 +1,29 @@
+
+/* external css */
+
+body{
+    background-color: lightseagreen;
+    background-image: -webkit-image-set(22);
+}
+
+h1{
+    color: red;
+    animation: forwards;
+    align-items: center;
+    display: block;
+}
+
+.c1
+{
+    color: blue;
+}
+
+#para2{
+    color: chocolate;
+}
+
+#b1{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 15%;
+}
